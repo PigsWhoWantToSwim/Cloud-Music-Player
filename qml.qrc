@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>App.qml</file>
+        <file>LayoutHeaderView.qml</file>
+        <file>LayoutBottomView.qml</file>
+        <file>PageHomeView.qml</file>
+        <file>MusicIconButton.qml</file>
+        <file>MusicToolButton.qml</file>
+        <file>MusicRoundImage.qml</file>
+        <file>DelailRecommendPageView.qml</file>
+        <file>DelailSearchPageView.qml</file>
+        <file>DelailLocalPageView.qml</file>
+        <file>DelailHistoryPageView.qml</file>
+        <file>DelailFavoritePageView.qml</file>
+        <file>MusicBannerView.qml</file>
+        <file>MusicGridHotView.qml</file>
+        <file>MusicGridLatestView.qml</file>
+        <file>MusicListView.qml</file>
+        <file>DelailPlayListPageView.qml</file>
+        <file>MusicBorderImage.qml</file>
+        <file>PageDetailView.qml</file>
+        <file>MusicLyricView.qml</file>
+        <file>MusicTextButton.qml</file>
+        <file>Background.qml</file>
+        <file>AppSystemTrayIcon.qml</file>
+        <file>MusicNotification.qml</file>
+        <file>MusicLoading.qml</file>
+        <file>MusicToolTip.qml</file>
+    </qresource>
+</RCC>
